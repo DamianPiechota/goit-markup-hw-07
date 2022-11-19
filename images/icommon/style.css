@@ -15,7 +15,7 @@ Single-colored icons can be modified like so:
 }
 ========================================== */
 
-.icon-email {
+.header__contact-icon--email {
   width: 1.3330078125em;
 }
 
