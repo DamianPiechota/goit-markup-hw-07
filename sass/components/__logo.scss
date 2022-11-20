@@ -1,0 +1,38 @@
+.header__logo--left a {
+    font-family: "Raleway";
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.19;
+    letter-spacing: 0.03em;
+    color: #2196f3;
+    text-decoration: none;
+}
+
+.header__logo--right a {
+    font-family: "Raleway";
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.19;
+    letter-spacing: 0.03em;
+    color: #000000;
+    text-decoration: none;
+}
+
+.footer__logo--right a {
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.19;
+    letter-spacing: 0.03em;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.logo-fotter {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.footer__logo {
+    display: flex;
+    gap: 70px;
+}

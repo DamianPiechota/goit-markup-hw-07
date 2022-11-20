@@ -1,0 +1,29 @@
+.header__second-font {
+    font-family: "Raleway", sans-serif;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+header {
+    border-bottom: #ececec 1px solid;
+    height: 100px;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.header svg {
+    fill: #757575;
+    padding-top: 0px;
+}
+
+.header__logo {
+    display: flex;
+    align-items: center;
+    gap: 75px;
+}
