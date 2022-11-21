@@ -1,8 +1,8 @@
-.card4 {
+.clients {
     text-align: center;
 }
 
-.card4 svg {
+.clients svg {
     fill: #afb1b8;
     border-radius: 4px;
     outline: 1px solid #afb1b8;
@@ -19,11 +19,11 @@
 }
 
 
-.card4 ul {
+.clients ul {
     display: flex;
     padding-left: 0;
 }
 
-.card4 li:not(:last-child) {
+.clients li:not(:last-child) {
     margin-right: 30px;
 }
